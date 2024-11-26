@@ -1,2 +1,2 @@
 jsonpickle == 0.9.4
-urllib3==1.19
+urllib3==1.26.5
